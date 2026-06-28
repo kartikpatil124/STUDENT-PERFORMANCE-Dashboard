@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="C:\Users\Kartik Patil\Downloads\TEST\TEST-1.png" alt="Overview Dashboard" width="100%">
+    <img width="4100" height="2350" alt="TEST-1" src="https://github.com/user-attachments/assets/32a1118b-4e84-4ed2-97cb-65d6e9ddfed2" />
 </p>
+<img width="4226" height="2350" alt="TEST-2" src="https://github.com/user-attachments/assets/37a1a624-70b1-4fe6-92b4-f7196f765732" />
 
 # 🎓 Student Performance Analytics Dashboard
 
