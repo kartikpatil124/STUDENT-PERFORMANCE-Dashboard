@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Images/TEST-1.png" alt="Overview Dashboard" width="100%">
+    <img src=""C:\Users\Kartik Patil\Downloads\TEST\TEST-1.png"" alt="Overview Dashboard" width="100%">
 </p>
 
 # 🎓 Student Performance Analytics Dashboard
