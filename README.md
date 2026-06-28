@@ -1,3 +1,5 @@
+<iframe src="<iframe src="Documentation/Dashboard.pdf"></iframe>"></iframe>
+
 # 🎓 Student Performance Analytics Dashboard
 
 > **A professional Power BI dashboard designed to analyze student academic performance, attendance, and behavioral trends through interactive business intelligence reporting.**
