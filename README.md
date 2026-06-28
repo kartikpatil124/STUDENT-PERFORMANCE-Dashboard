@@ -1,4 +1,6 @@
-<iframe src="TEST.pdf"></iframe>
+<p align="center">
+    <img src="Images/TEST-1.png" alt="Overview Dashboard" width="100%">
+</p>
 
 # 🎓 Student Performance Analytics Dashboard
 
